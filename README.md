@@ -1,6 +1,7 @@
 # Welcome to Android Me
 App that lets you style your own Android! This uses Fragments to create a flexible and responsive UI.
 
+<img width="400" src="https://i.ibb.co/684yqtk/screenshot.gif" />
 
 
 I rewrote this application with Android Studio version 3.6.2

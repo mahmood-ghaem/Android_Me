@@ -9,7 +9,7 @@ I rewrote this application with Android Studio version 3.6.2
 You will easily follow the steps to add or change codes.
 <hr>
 
-In MainActivity.java
+[In MainActivity.java](https://github.com/mahmood-ghaem/Android_Me/blob/master/AndroidMeExercise/app/src/main/java/nl/mahmood/androidmeexercise/MainActivity.java)
 
 ```java
 /**
